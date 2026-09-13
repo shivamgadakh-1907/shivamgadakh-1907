@@ -128,7 +128,9 @@
 
 
 
-## 📈 GitHub Analytics
+---
+
+<h2 align="left">📈 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -150,7 +152,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="left">🏆 GitHub Trophies</h2>
 
 <div align="center">
 
@@ -160,27 +162,41 @@
 
 ---
 
-## 🚀 What I'm Working On
+<h2 align="left">🚀 What I'm Working On</h2>
 
 <div align="center">
 
-| 🧠 **Learn** | 🛠️ **Build** | 🚀 **Hack** | 🤖 **Explore** |
-|:---:|:---:|:---:|:---:|
-| AI/ML & Data Science | Practical Projects | Team Hackathons | AI-Powered Apps |
+<table>
+<tr>
+<th>🧠 Learn</th>
+<th>🛠️ Build</th>
+<th>🚀 Hack</th>
+<th>🤖 Explore</th>
+</tr>
+
+<tr>
+<td>AI/ML & Data Science</td>
+<td>Practical Projects</td>
+<td>Team Hackathons</td>
+<td>AI-Powered Apps</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💡 My Developer Mindset
+<h2 align="left">💡 My Developer Mindset</h2>
 
 <div align="center">
 
-> **I don't just learn technology — I turn what I learn into projects.** 🚀
-
 <br>
 
-🧠 **Learn** → 🛠️ **Build** → 🧪 **Experiment** → 🚀 **Improve**
+<b>I don't just learn technology — I turn what I learn into projects. 🚀</b>
+
+<br><br>
+
+🧠 Learn → 🛠️ Build → 🧪 Experiment → 🚀 Improve
 
 </div>
 
