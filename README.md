@@ -72,18 +72,29 @@
 
 ### 📊 Data Science & Machine Learning
 
+<div align="center">
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
 </p>
 
-`NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Seaborn` &nbsp; `Scikit-learn` &nbsp; `TensorFlow` &nbsp; `PyTorch`
+<p>
+  <code>NumPy</code>
+  <code>Pandas</code>
+  <code>Matplotlib</code>
+  <code>Seaborn</code>
+  <code>Scikit-learn</code>
+  <code>TensorFlow</code>
+  <code>PyTorch</code>
+</p>
 
+</div>
 <br>
 
 ### 🧰 Tools & Development Environment
