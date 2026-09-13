@@ -116,22 +116,27 @@
 
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <div align="center">
 
 <a href="https://github.com/shivamgadakh-1907">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=shivamgadakh-1907&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="Shivam's GitHub stats" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=shivamgadakh-1907&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
+       alt="Shivam's GitHub Stats" />
 </a>
 
-&nbsp;
-
 <a href="https://github.com/shivamgadakh-1907">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgadakh-1907&layout=compact&hide_border=true&langs_count=7&theme=tokyonight" alt="Top languages" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgadakh-1907&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+       alt="Top Languages" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/shivamgadakh-1907">
-<img src="https://streak-stats.demolab.com?user=shivamgadakh-1907&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=shivamgadakh-1907&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
 </a>
 
 </div>
