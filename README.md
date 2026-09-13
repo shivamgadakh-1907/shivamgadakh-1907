@@ -28,7 +28,7 @@
 
 ### ⚡ Fun Fact
 
-> **I like turning half-finished ideas into working hackathon projects. 🚀**
+> **Some of my best coding ideas appear when I should probably be sleeping. 🌙💻**
 
 ---
 
