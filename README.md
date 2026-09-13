@@ -126,28 +126,24 @@
 
 ---
 
-## 📈 GitHub Analytics
 
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/shivamgadakh-1907">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=shivamgadakh-1907&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
-       alt="Shivam's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=shivamgadakh-1907&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="Shivam's GitHub Stats"/>
 </a>
 
 <a href="https://github.com/shivamgadakh-1907">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgadakh-1907&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-       alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgadakh-1907&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/shivamgadakh-1907">
-  <img src="https://streak-stats.demolab.com?user=shivamgadakh-1907&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=shivamgadakh-1907&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -158,7 +154,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivamgadakh-1907&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivamgadakh-1907&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -180,9 +176,11 @@
 
 <div align="center">
 
-### `Learn → Build → Break → Fix → Repeat 🔁`
+> **I don't just learn technology — I turn what I learn into projects.** 🚀
 
-**Curious Mind** &nbsp;|&nbsp; **Consistent Learning** &nbsp;|&nbsp; **Practical Building** &nbsp;|&nbsp; **Relentless Growth**
+<br>
+
+🧠 **Learn** → 🛠️ **Build** → 🧪 **Experiment** → 🚀 **Improve**
 
 </div>
 
