@@ -100,15 +100,27 @@
 
 ### 🧰 Tools & Development Environment
 
+<div align="center">
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Google Colab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub"/>
 </p>
 
-`VS Code` &nbsp; `Jupyter Notebook` &nbsp; `Google Colab` &nbsp; `Git` &nbsp; `GitHub`
+<p>
+  <code>VS Code</code>
+  &nbsp;
+  <code>Jupyter Notebook</code>
+  &nbsp;
+  <code>Google Colab</code>
+  &nbsp;
+  <code>Git</code>
+  &nbsp;
+  <code>GitHub</code>
+</p>
 
 </div>
 
