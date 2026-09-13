@@ -21,7 +21,8 @@
 
 - 🎓 Exploring **AI, Machine Learning, Data Science & Software Development**
 - 📊 Currently deepening my skills in **NumPy, Pandas, Matplotlib, Seaborn & Machine Learning**
-- 🚀 Building **hackathon projects with my team** and exploring **AI-powered applications**
+- 🧠 **Turning curiosity into knowledge through Data Science, AI & Machine Learning.**
+- 🚀 **Building real-world projects, experimenting with AI and learning through every challenge.**
 - 🧩 I enjoy solving problems, experimenting with ideas and turning concepts into working projects
 - 💬 Ask me about **Python, NumPy, Pandas, C, C++ & Machine Learning**
 - 📫 Reach me at **[shivamgadakh46@gmail.com](mailto:shivamgadakh46@gmail.com)**
